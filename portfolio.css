@@ -2,7 +2,7 @@ body{
     color: whitesmoke;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
-    background-image: url("");
+    background-image: url("https://github.com/Miguel0509-hub/sobre-mim/blob/main/images/background-iamge.jpg?raw=true");
 }
 
 .title{
@@ -20,6 +20,6 @@ body{
 
 .txt{
     color:black;
-    font-family:cursive, sans-serif;
+    font-family: cursive, sans-serif;
     text-align: center;
 }
