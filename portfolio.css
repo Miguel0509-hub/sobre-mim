@@ -2,10 +2,24 @@ body{
     color: whitesmoke;
     font-family:Arial, Helvetica, sans-serif;
     text-align: center;
+    background-image: url("");
 }
 
 .title{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.image{
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: darkblue;
+}
+
+.txt{
+    color:black;
+    font-family:cursive, sans-serif;
     text-align: center;
 }
